@@ -98,8 +98,8 @@ hybrid_answer("Describe year base sales for all outlet")
 ## ✨ Author
 
 **Md. Shihab Shahriar**  
-MScSE Student | AI Enthusiast  
-📧 mshahriar2510015@mscse.uiu.ac.bd
+> 🔒 **Note:** The dataset and vector database are private.  
+> 👉 **Contact me for access:** `shbshahriar32@gmail.com`
 
 ---
 
