@@ -1,8 +1,4 @@
-Absolutely, here's the updated `README.md` with **RAG** included in the title and throughout the doc for extra clarity and emphasis:
 
----
-
-```markdown
 # 🔮 Hybrid Sales Insight System using LangChain + Gemini + Pandas + RAG
 
 This project is a smart hybrid system for **sales data analysis** that combines:
@@ -120,12 +116,3 @@ MScSE Student | AI Enthusiast
 
 Open-source under the [MIT License](LICENSE).
 
----
-
-### ⚡ Pro Tip
-> "Why choose between RAG and structured code when you can *hybrid* like a boss?" – Someone probably
-```
-
----
-
-Want this in a `.md` file to upload directly, or want a version with Colab badge for easy demoing?
